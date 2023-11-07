@@ -1,4 +1,4 @@
-![p29](https://github.com/silambarasan2004/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/119559917/cfe9dd7c-ccf2-48cc-b540-38e2ab0c07e8)# OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
+# OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
 ## AIM:
 To Install Ubuntu in VMware Player on Windows
